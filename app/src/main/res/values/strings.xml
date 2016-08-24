@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">酷欧天气</string>
+    <string name="switch_city">切换城市</string>
+    <string name="refresh_weather">刷新</string>
+</resources>
